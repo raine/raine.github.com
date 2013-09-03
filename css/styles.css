@@ -10,22 +10,22 @@ body {
   margin-bottom: 10px; }
 
 #header h1 {
-  color: #222;
+  color: #333;
   text-shadow: 3px 3px 0 #dcdcdc;
-  font-family: 'Cabin Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-size: 42pt;
   line-height: 36px;
+  letter-spacing: -4px;
   margin: 0; }
 
 #header .subtitle {
   color: #666;
-  font-family: 'Cabin Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 20px;
   text-transform: uppercase;
-  margin: 10px 0 8px 0; }
+  margin: 14px 0 8px 0; }
 
 #header .subtitle i {
   color: #444; }
@@ -225,3 +225,12 @@ a:focus {
 .fancybox-title {
   font-weight: bold !important;
   text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.6) !important; }
+
+#footer {
+  text-align: center;
+  color: #777;
+  font-size: 15px;
+  font-weight: 300;
+  margin-top: 30px;
+  border-top: 1px solid #ddd;
+  padding-top: 1em; }
