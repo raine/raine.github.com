@@ -125,8 +125,9 @@ a:focus {
 .timeline .time-period {
   display: block;
   color: #777;
-  font-size: 14px;
-  margin: 3px 0 5px 0; }
+  font-size: 15px;
+  margin: 3px 0 5px 0;
+  font-weight: 300; }
 
 .oneline-timeline h3 {
   font-size: 20px;
@@ -136,7 +137,8 @@ a:focus {
 
 .oneline-timeline .time-period {
   color: #777;
-  font-size: 14px; }
+  font-size: 15px;
+  font-weight: 300; }
 
 #skills dl dt {
   font-size: 20px;
